@@ -108,7 +108,7 @@
     "stryker": "stryker run stryker.conf.js"
   },
   "engines": {
-    "node": "~4 ~6 ~7"
+    "node": "7.7.4"
   },
   "standard": {
     "ignore": [
